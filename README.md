@@ -1,4 +1,4 @@
-# velocity-hq
+# velocity-NEST
 Learning platform provides spaced-repetition, visual learning & contests
 
 ## Components
