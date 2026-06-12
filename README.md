@@ -1,11 +1,16 @@
 ## Intro
 Velocity flashcard & quiz app built for easy customization and reliablity.
 
-Velocity uses (Py-FSRS service)(https://github.com/open-spaced-repetition/py-fsrs)
+Velocity uses [Py-FSRS service](https://github.com/open-spaced-repetition/py-fsrs)
 
 ## Requirements
 - Server: FastAPI
 - Database: Sqlite, peewee ORM, Pydantic
+
+## TODO
+- !IMP - Notify via cron
+- Code cleanup
+- Proper UI
 
 ## Backend folder Structure
 - **core:** contains core functionalities of app like config, connector etc
